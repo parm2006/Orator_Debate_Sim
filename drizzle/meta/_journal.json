@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768132918698,
+      "tag": "0000_gray_crystal",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768133040111,
+      "tag": "0001_regular_spiral",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768136436818,
+      "tag": "0002_damp_gideon",
+      "breakpoints": true
+    }
+  ]
+}
